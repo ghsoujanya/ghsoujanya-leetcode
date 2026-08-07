@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0112-path-sum) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -41,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -69,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0113-path-sum-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 <!---LeetCode Topics End-->
