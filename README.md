@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0101-symmetric-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0101-symmetric-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0101-symmetric-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -33,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
