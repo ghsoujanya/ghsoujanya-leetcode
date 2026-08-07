@@ -1,4 +1,3 @@
-
 class Solution {
     private int maxDiameter = 0;
 
@@ -15,10 +14,10 @@ class Solution {
         int leftDepth = getDepth(node.left);
         int rightDepth = getDepth(node.right);
 
-        // Update the maximum diameter found so far
+        // The longest path passing through this node is left depth + right depth
         maxDiameter = Math.max(maxDiameter, leftDepth + rightDepth);
 
-        // Return height of current node
+        // Return the height of the current subtree
         return 1 + Math.max(leftDepth, rightDepth);
     }
 }
