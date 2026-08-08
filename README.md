@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0572-subtree-of-another-tree) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Function
 |  |
 | ------- |
@@ -90,4 +91,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Two Pointers
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Greedy
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
