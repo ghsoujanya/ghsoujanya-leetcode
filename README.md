@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Graph Theory
 |  |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Sorting
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
