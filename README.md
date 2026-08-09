@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0684-redundant-connection](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1192-critical-connections-in-a-network](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1192-critical-connections-in-a-network) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0785-is-graph-bipartite) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [2685-count-the-number-of-complete-components](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2685-count-the-number-of-complete-components) |
