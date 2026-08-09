@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0621-task-scheduler](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0743-network-delay-time) |
 ## Counting
 |  |
 | ------- |
@@ -407,4 +411,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
