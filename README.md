@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1140-stone-game-ii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1140-stone-game-ii) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1140-stone-game-ii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2258-escape-the-spreading-fire](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2258-escape-the-spreading-fire) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0733-flood-fill) |
 | [2258-escape-the-spreading-fire](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2258-escape-the-spreading-fire) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
