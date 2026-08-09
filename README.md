@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0778-swim-in-rising-water](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0778-swim-in-rising-water) |
 | [2258-escape-the-spreading-fire](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2258-escape-the-spreading-fire) |
 ## Bit Manipulation
 |  |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0778-swim-in-rising-water) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1140-stone-game-ii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1140-stone-game-ii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0778-swim-in-rising-water) |
 | [2258-escape-the-spreading-fire](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2258-escape-the-spreading-fire) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Union-Find
@@ -316,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0785-is-graph-bipartite) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -323,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0778-swim-in-rising-water) |
 | [1140-stone-game-ii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1140-stone-game-ii) |
 ## Prefix Sum
 |  |
@@ -375,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0621-task-scheduler](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Counting
 |  |
@@ -425,4 +433,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
