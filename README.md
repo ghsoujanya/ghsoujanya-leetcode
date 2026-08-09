@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0133-clone-graph) |
 | [0785-is-graph-bipartite](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0785-is-graph-bipartite) |
+| [1192-critical-connections-in-a-network](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3310-remove-methods-from-project) |
 ## Math
@@ -302,4 +304,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2360-longest-cycle-in-a-graph) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
