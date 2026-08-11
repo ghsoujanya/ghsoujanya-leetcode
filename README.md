@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0572-subtree-of-another-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0692-top-k-frequent-words](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0721-accounts-merge) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0133-clone-graph) |
 | [0621-task-scheduler](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0621-task-scheduler](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0200-number-of-islands) |
 | [0332-reconstruct-itinerary](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0621-task-scheduler](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0778-swim-in-rising-water) |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0621-task-scheduler](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -393,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0692-top-k-frequent-words) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -449,4 +455,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
