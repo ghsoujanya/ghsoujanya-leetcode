@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0721-accounts-merge) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Function
 |  |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1140-stone-game-ii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1140-stone-game-ii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2258-escape-the-spreading-fire](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2258-escape-the-spreading-fire) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -469,4 +471,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
