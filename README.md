@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
 | ------- |
