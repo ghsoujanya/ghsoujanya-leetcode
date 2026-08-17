@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0788-rotated-digits](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0788-rotated-digits) |
 | [1140-stone-game-ii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0788-rotated-digits](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0788-rotated-digits) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1140-stone-game-ii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1140-stone-game-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
