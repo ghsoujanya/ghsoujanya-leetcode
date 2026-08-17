@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3643-flip-square-submatrix-vertically](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3643-flip-square-submatrix-vertically](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0778-swim-in-rising-water) |
 | [2258-escape-the-spreading-fire](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2258-escape-the-spreading-fire) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [3643-flip-square-submatrix-vertically](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Union-Find
 |  |
 | ------- |
