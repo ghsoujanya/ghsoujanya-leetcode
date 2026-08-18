@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0200-number-of-islands) |
 | [0332-reconstruct-itinerary](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0721-accounts-merge) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0743-network-delay-time) |
