@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0133-clone-graph) |
 | [0621-task-scheduler](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2029-stone-game-ix](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0621-task-scheduler](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0733-flood-fill) |
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0778-swim-in-rising-water) |
@@ -495,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
