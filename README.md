@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0788-rotated-digits](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0788-rotated-digits) |
 | [1140-stone-game-ii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1140-stone-game-ii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1140-stone-game-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1872-stone-game-viii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1872-stone-game-viii) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1872-stone-game-viii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2029-stone-game-ix](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -380,21 +383,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/0778-swim-in-rising-water) |
 | [1140-stone-game-ii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ghsoujanya/ghsoujanya-leetcode/tree/master/2029-stone-game-ix) |
 ## Graph Coloring
 |  |
